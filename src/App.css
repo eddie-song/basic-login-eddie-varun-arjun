@@ -19,3 +19,17 @@ button {
   display: block;
   margin-top: 10px;
 }
+
+.instructions {
+  margin-top: 50px;
+  width: 500px;
+}
+
+.container {
+  width: screen;
+  height: screen;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
